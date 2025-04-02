@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm [Your Name]</h1>
+<h1 align="center">Hey there! 👋 I'm Avinash Pathak</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px">
@@ -27,8 +27,8 @@
 ## 📊 **GitHub Stats**  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="180px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api?username=Avinashrkrk&show_icons=true&theme=tokyonight" height="180px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avinashrkr&theme=tokyonight" height="180px">
 </div>
 
 ---
