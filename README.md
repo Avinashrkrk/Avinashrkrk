@@ -28,8 +28,7 @@
 
 <div align="center">
   <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Avinashrkrk&show_icons=true&theme=tokyonight" height="180px">
- 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avinashrkrk&theme=tokyonight" height="180px">
+  <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinashrkrk&layout=compact&theme=tokyonight" height="180px">
 </div>
 
 ---
@@ -37,41 +36,24 @@
 ## 🏆 **GitHub Achievements**  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&column=6">
+  <img src="https://github-profile-trophy.vercel.app/?username=Avinashrkrk&theme=tokyonight&column=6">
 </p>
 
 ---
 
-## 🐍 **Watch My Contributions**  
+## <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> **Watch My Contributions**  
 
 <p align="center">
-  <img src="https://github.com/yourusername/yourusername/raw/output/github-contribution-grid-snake.svg">
+  <img src="https://github.com/Avinashrkrk/Avinashrkrk/blob/output/snake.svg">
 </p>
-
----
-
-## 📌 **Featured Projects**  
-
-### 🚀 [Project Name 1](https://github.com/yourusername/project1)  
-🔹 **Description**: A brief introduction about this project.  
-🔹 **Tech Used**: Python, Django, Streamlit  
-
-### 🚀 [Project Name 2](https://github.com/yourusername/project2)  
-🔹 **Description**: A brief introduction about this project.  
-🔹 **Tech Used**: ReactJS, Firebase  
 
 ---
 
 ## 🌍 **Connect With Me**  
 
-<p align="center">
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"></a>
+<p  align="center">
+<a href="https://www.linkedin.com/in/avinash-pathak-170717224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinash-pathak-170717224" height="40" width="50" /></a>
+<a href="https://www.instagram.com/avinash_ireland/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avinash_ireland" height="40" width="50" /></a>
 </p>
 
 ---
-
-![contribution grid snake animations](https://github.com/Avinashrkrk/Avinashrkrk/blob/output/snake.svg)
-
-⭐ **Star this profile if you like it!** 🌟
