@@ -71,6 +71,6 @@
 
 ---
 
-![contribution grid snake animations](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![contribution grid snake animations](https://github.com/Avinashrkrk/Avinashrkrk/blob/output/github-contribution-grid-snake.svg)
 
 ⭐ **Star this profile if you like it!** 🌟
