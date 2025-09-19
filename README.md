@@ -13,7 +13,7 @@
 
 ## 👨‍💻 **About Me**
 
-- 🔭 I’m currently working on **Shopixo**  
+- 🔭 I’m currently working on **Code Guardian**  
 - 🌱 I’m learning **Full Stack Development**  
 - 👯 I’m looking to collaborate on **AI, ML, and Full-Stack projects**  
 - 🎯 My goal is to **build impactful AI solutions and contribute to open-source**  
